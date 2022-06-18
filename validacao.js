@@ -28,4 +28,4 @@ String.prototype.reverse = function(){
     campo.value = resultado.reverse();
  }
 
-// @elielson_and
+// By: Elielson Andre
