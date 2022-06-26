@@ -1,4 +1,4 @@
-# 💲💵 Mascara de input monetária (REAL) em JavaScript
+# 💲💵 Mascara de input monetária (BRL) em JavaScript
 
 Um script de mascara para você usar em seus inputs, seguindo o padrão Real brasileiro com "." representando casa de milhares e "," para decimais
 
