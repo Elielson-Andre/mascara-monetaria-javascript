@@ -1,7 +1,5 @@
-// Chamar a segunte ação no campo de imput a ser validado:
+// Chamar a segunte ação no campo de input a ser validado:
 // >> onKeyUp="mascaraMoeda(this, event)"
-
-// formato PT-BR (REAL)
 
 String.prototype.reverse = function(){
     return this.split('').reverse().join(''); 
@@ -27,5 +25,3 @@ String.prototype.reverse = function(){
      
     campo.value = resultado.reverse();
  }
-
-// By: Elielson Andre
